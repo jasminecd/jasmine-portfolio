@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jasminecd.github.io/static/css/main.db76a3b0.chunk.css",
+    "main.js": "/jasminecd.github.io/static/js/main.f3cb3b7c.chunk.js",
+    "main.js.map": "/jasminecd.github.io/static/js/main.f3cb3b7c.chunk.js.map",
+    "runtime-main.js": "/jasminecd.github.io/static/js/runtime-main.539980a7.js",
+    "runtime-main.js.map": "/jasminecd.github.io/static/js/runtime-main.539980a7.js.map",
+    "static/css/2.d64471e2.chunk.css": "/jasminecd.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.ef53bc0a.chunk.js": "/jasminecd.github.io/static/js/2.ef53bc0a.chunk.js",
+    "static/js/2.ef53bc0a.chunk.js.map": "/jasminecd.github.io/static/js/2.ef53bc0a.chunk.js.map",
+    "index.html": "/jasminecd.github.io/index.html",
+    "precache-manifest.c709182c8acc5f26a3c7b75c48e286a9.js": "/jasminecd.github.io/precache-manifest.c709182c8acc5f26a3c7b75c48e286a9.js",
+    "service-worker.js": "/jasminecd.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/jasminecd.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db76a3b0.chunk.css.map": "/jasminecd.github.io/static/css/main.db76a3b0.chunk.css.map",
+    "static/js/2.ef53bc0a.chunk.js.LICENSE.txt": "/jasminecd.github.io/static/js/2.ef53bc0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.539980a7.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.ef53bc0a.chunk.js",
+    "static/css/main.db76a3b0.chunk.css",
+    "static/js/main.f3cb3b7c.chunk.js"
+  ]
+}
