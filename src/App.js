@@ -20,12 +20,12 @@ class App extends Component {
   }
 
   applyPickedLanguage(pickedLanguage, oppositeLangIconId) {
-    this.swapCurrentlyActiveLanguage(oppositeLangIconId);
-    document.documentElement.lang = pickedLanguage;
+    //this.swapCurrentlyActiveLanguage(oppositeLangIconId);
+    //document.documentElement.lang = window.$primaryLanguage;
     var resumePath =
-      document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+      //document.documentElement.lang === window.$primaryLanguage
+        `res_primaryLanguage.json`
+        ;
     this.loadResumeFromPath(resumePath);
   }
 
@@ -95,27 +95,12 @@ class App extends Component {
           >
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
+              data-icon="twemoji-flag-for-flag-united-states"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
           </div>
-          <div
-            onClick={() =>
-              this.applyPickedLanguage(
-                window.$secondaryLanguage,
-                window.$primaryLanguageIconId
-              )
-            }
-            style={{ display: "inline" }}
-          >
-            <span
-              className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
-              data-inline="false"
-              id={window.$secondaryLanguageIconId}
-            ></span>
-          </div>
+          
         </div>
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
