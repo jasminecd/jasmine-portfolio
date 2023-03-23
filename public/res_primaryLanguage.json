@@ -15,9 +15,9 @@
         "startDate": "Fall 2022 - Now",
         "description": "The goal: To create a 3D breast-scanning application for mastectomy recipients utilizing React and the in3D API. With a team of five, we began sprint planning to keep track of our goals. We then had continuous meetings with our sponsor to document our requirements and other necessary materials. With the requirements in mind, we created a guide for our architecture and UI. Finally, we developed a working application that successfully scans the customer's body and sends to Myrina to create the 3D prosthetic.",
         "images": [
-          "images/portfolio/myrina/Myrina1.jpg",
-          "images/portfolio/myrina/Myrina2.jpg",
-          "images/portfolio/myrina/Myrina3.jpg"
+          "images/Myrina1.jpg",
+          "images/Myrina2.jpg",
+          "images/Myrina3.jpg"
         ],
         "url": "https://www.myrinaworld.com/",
         "technologies": [
@@ -48,7 +48,7 @@
         "startDate": "Winter 2023",
         "description": "The goal: create a data visualization of cold symptoms from tweets using NLP techniques and Vue's Choropleth Map. As the leader of the team, I held weekly meetings and tracked our goals. Documentation then began to research our product and brainstorm our ideas. Finally, being the only developer on the team, I wireframed our general ideas and implemented our map (using Vue) into a live UCI site.",
         "images": [
-          "images/portfolio/healthbit/Bit1.jpg"
+          "images/Bit1.jpg"
         ],
         "url": "https://sites.uci.edu/healthbitdatamap/",
         "technologies": [
@@ -79,8 +79,8 @@
         "startDate": "Winter 2022",
         "description": "The goal: creating an application focused on UI/UX design. As a team, we archived our process on how we created a prototype that emphasized human and computer interaction. Check out the live site above to get an in-depth review of how our 'final' prototype came to be.",
         "images": [
-          "images/portfolio/quack/quack1.jpg",
-          "images/portfolio/quack/quack2.jpg"
+          "images/quack1.jpg",
+          "images/quack2.jpg"
         ],
         "url": "https://duckrecipes594937455.wordpress.com/",
         "technologies": [
