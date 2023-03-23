@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jasmine-portfolio/precache-manifest.d98b5b74d58ff6fb8be5cf4748988484.js"
+  "/jasmine-portfolio/precache-manifest.364d423df6c2f15ae3722c9946ba3392.js"
 );
 
 self.addEventListener('message', (event) => {
