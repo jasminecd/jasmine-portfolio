@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jasmine Doan",
-      "titles": [ "UI/UX Designer", "Developer" ],
+      "titles": [  "Developer", "UI/UX Designer"],
       "social": [
         {
           "name": "github",
@@ -45,7 +45,7 @@
         },
         {
           "name": "CSS",
-          "class": "devicon-css3-original",
+          "class": "devicon-css3-plain",
           "level": "65"
         },
         {
