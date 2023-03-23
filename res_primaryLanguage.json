@@ -48,7 +48,7 @@
         "startDate": "Winter 2023",
         "description": "The goal: create a data visualization of cold symptoms from tweets using NLP techniques and Vue's Choropleth Map. As the leader of the team, I held weekly meetings and tracked our goals. Documentation then began to research our product and brainstorm our ideas. Finally, being the only developer on the team, I wireframed our general ideas and implemented our map (using Vue) into a live UCI site.",
         "images": [
-          "images/Bit1.JPG"
+          "images/Bit1.jpg"
         ],
         "url": "https://sites.uci.edu/healthbitdatamap/",
         "technologies": [
