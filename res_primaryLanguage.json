@@ -115,11 +115,25 @@
       {
         "company": "Vons",
         "title": "Pharmacy/Courtesy Clerk",
-        "years": "01.2021 - Now",
+        "years": "01.2021 - 04.2023",
         "mainTech": [
           "Data Entry and Customer Service"
         ],
         "technologies": [
+        ]
+      },
+      {
+        "company": "Federal Aviation Administration",
+        "title": "MSI Intern",
+        "years": "06.2023 - 08.2023",
+        "mainTech": [
+          "Data Entry and Projects"
+        ],
+        "technologies": [
+          "Used Microsoft Excel to compile and enter data",
+          "Entered data on Microsoft lists to keep track of onboarding processes in the TWLA district",
+          "Programmed lists to show upcoming or past due CERT deadlines",
+          "Developed a Microsoft Flow to give the designated user a 7-day to deadline email notification to CERT expiration"
         ]
       }
     ]
