@@ -131,9 +131,9 @@
         ],
         "technologies": [
           "Used Microsoft Excel to compile and enter data",
-          "Entered data on Microsoft lists to keep track of onboarding processes\nin the TWLA district",
+          "Entered data on Microsoft lists to keep track of onboarding processes\\nin the TWLA district",
           "Programmed lists to show upcoming or past due CERT deadlines",
-          "Developed a Microsoft Flow to give the designated user a 7-day to deadline\nemail notification to CERT expiration"
+          "Developed a Microsoft Flow to give the designated user a 7-day to deadline\\nemail notification to CERT expiration"
         ]
       }
     ]
